@@ -1,3 +1,51 @@
+/*cabeçalho*/
+header img {
+    height: 70px;
+    width: 70px;
+}
+
+
+/*Conteudo principal*/
+
+main{
+    min-height: 500px;
+}
+
+/*banner*/
+#section-banners img {
+    height: 500px;
+}
+
+/*Produtos vendidos*/
+
+#section-vendidos {
+    text-align: center;
+}
+
+#section-vendidos h2 {
+    
+    font-weight: bold;
+    padding: 20px;
+}
+
+#section-vendidos img {
+    height: 300px;
+    border-radius: 10px;
+}
+
+#section-vendidos .card {
+    margin: 5px;
+    border: 1 px solid #ccc;
+    border-radius: 10px;
+}
+
+#section-vendidos .preco {
+    color: red;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
 /*Rodapé*/
 
 footer {
@@ -9,21 +57,28 @@ footer p {
     padding: 10px;
 }
 
-/*cabeçalho*/
-
-
-/*Conteudo principal*/
-
-
-/*banner*/
-
-/*Produtos vendidos*/
-/*Rodapé*/
-
 /*Botão Voltar topo*/
 
 /* página de login  */
 
 
 /* Formulário de cadastro*/
+
+
+
+
+footer {
+    position: relative;
+    bottom: 0;
+}
+
+footer p {
+    text-align: center;
+    font-weight: bold;
+
+    padding: 10px;
+}
+
+
+
 
