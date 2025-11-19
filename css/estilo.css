@@ -59,15 +59,45 @@ footer p {
 
 /*Botão Voltar topo*/
 
+#voltar-topo {
+    position: fixed;
+    bottom: 5px;
+    right: 50px;
+}
+
 /* página de login  */
+
+#section-login{
+    margin-top: 100px;
+}
+
+
+#section-login h1 {
+    text-align: center;
+}
+
+
+#section-login input {
+    width: 100%;
+
+}
 
 
 /* Formulário de cadastro*/
 
+#section-cadastro {
+    padding: 5px;
+    text-align: center;
+    background-color: #fff;
+}
+
+#form-cadastrar {
+    padding: 50px;
+    display: none;
+}
 
 
-
-footer {
+/* footer {
     position: relative;
     bottom: 0;
 }
@@ -77,7 +107,7 @@ footer p {
     font-weight: bold;
 
     padding: 10px;
-}
+} */
 
 
 
