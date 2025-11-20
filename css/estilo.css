@@ -57,6 +57,18 @@ footer p {
     padding: 10px;
 }
 
+footer {
+    position: relative;
+    bottom: 0;
+}
+
+footer p {
+    text-align: center;
+    font-weight: bold;
+
+    padding: 10px;
+}
+
 /*Botão Voltar topo*/
 
 #voltar-topo {
@@ -95,20 +107,3 @@ footer p {
     padding: 50px;
     display: none;
 }
-
-
-/* footer {
-    position: relative;
-    bottom: 0;
-}
-
-footer p {
-    text-align: center;
-    font-weight: bold;
-
-    padding: 10px;
-} */
-
-
-
-
